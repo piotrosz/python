@@ -3,6 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{903C1B25-0D01-4403-B3DD-22717430E114}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6DD0D1DD-D326-4D14-9893-0335423C27CE}"
+	ProjectSection(SolutionItems) = preProject
+		..\break.py = ..\break.py
+		..\fibonacci.py = ..\fibonacci.py
+		..\for.py = ..\for.py
+		..\function.py = ..\function.py
+		..\if.py = ..\if.py
+		..\lambda.py = ..\lambda.py
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
